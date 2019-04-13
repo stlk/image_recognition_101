@@ -11,10 +11,12 @@ jupyter = "*"
 jupyter_contrib_nbextensions = "*"
 matplotlib = "*"
 notebook = "*"
-opencv-python = "==3.4.0.14"
-opencv-contrib-python = "==3.4.0.14"
+opencv-python = "*"
+opencv-contrib-python = "*"
+plotly = "*"
+Pillow = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
